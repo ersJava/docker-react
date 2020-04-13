@@ -17,6 +17,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+
+          LIVING THE DENVER LIFE!
         </a>
       </header>
     </div>
